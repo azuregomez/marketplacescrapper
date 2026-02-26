@@ -1,4 +1,4 @@
-# marketplacescrapper
+# Azure Marketplace Scrapper
 This is an old fashioned screenscrapper for all the Azure Marketplace offerings that are elegible for Azure benefits (like decrementing a MACC).
 The website is updated regularly and it has over 4,000 offerings that match this criteria:<br>
 https://marketplace.microsoft.com/en-us/search/products?page=1&filters=Azure-benefit-eligible<br>
